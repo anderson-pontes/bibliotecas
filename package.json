@@ -10,8 +10,18 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "chart.js": "^3.9.1",
     "date-fns": "^2.29.3",
     "lodash": "^4.17.21"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderson-pontes/bibliotecas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anderson-pontes/bibliotecas/issues"
+  },
+  "homepage": "https://github.com/anderson-pontes/bibliotecas#readme",
   "description": ""
 }
